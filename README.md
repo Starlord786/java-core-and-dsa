@@ -1,1 +1,1 @@
-# java-core-and-dsa
+Java Core (OOP) + DSA Practice for SDE Preparation
